@@ -3,3 +3,6 @@ https://attackontitan.fandom.com/wiki/Military
 
 AOT LOGO
 https://logos-world.net/wp-content/uploads/2022/01/Attack-on-Titan-Logo.png
+
+Live Page Link
+https://muushyroom.github.io/landing-page/
